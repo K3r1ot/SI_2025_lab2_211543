@@ -17,3 +17,4 @@ TEST 5 INPUT allItems = [ Item("A",1,10,0.0) ] cardNumber = "1234ABCD5678EFGH"
 
 5.Multiple Condition
 TXX FTX FFT FFF
+Ова ги покрива сите варијации на трите променливи
